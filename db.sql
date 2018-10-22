@@ -1,8 +1,8 @@
-﻿# Host: 127.0.0.1  (Version 5.6.35)
-# Date: 2017-11-22 16:38:47
-# Generator: MySQL-Front 5.4  (Build 4.153) - http://www.mysqlfront.de/
+
 
 /*!40101 SET NAMES utf8 */;
+
+use  test;
 
 #
 # Structure for table "article"
